@@ -3086,7 +3086,1055 @@
 ]
 },
 {
-  
+  "label": "Andy Ricker's Naam Cheuam Naam Taan Piip (Palm Sugar Simple Syrup)",
+  "image": "https://edamam-product-images.s3.amazonaws.com/web-img/611/61165abc1c1c6a185fe5e67167d3e1f0.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDqmaVc2VWMw52vL3GgYlzySH9qJKT5ILYkiBBYUSL0rgIgUy3D%2Be6aZAfPfBfX6fDeTBIjtcJaD%2BJaa5X12bbYyOIquQUIMRAAGgwxODcwMTcxNTA5ODYiDKPSElJkYzt9H3uIBSqWBZvz0LMJfBLoF1pcohlns5Nz5B6qCq0RyFaM5Ft8kuAnenJlKbwQD02%2B2OqfVKiVZAgFIhIq%2BqjBnC9bl4dV5Fk0Ap3dYvHCE8%2FaKxfmwXTaaW%2F6%2BS1OC1FcvtQBmezlEcKCqeQEN92gR23vdLBrUOiegeEjUcWO7nO%2BouOVPn%2FbyqpjBDpLP6d1m1OQsYfX5d3J4tsRFyqtMxjxaMVZH5RZHjiAiamkKpx8elqqDSYrKfPJ2WtEBfEJRh8yJU%2FrpQf0CmAGxgeWU%2FUX3GiG6Ey45Fw2wunCCgSmt%2FM3BaTgdqvPmUQCwXzUaxs7Jl4o55e0vAehwzZxRevEJnrac4zaVAoOZbyf183mhOm1tXt5hIt2FaT84V5CwjyzCFHYsdP5vnyEuoG%2BJ4xpmSGk2hl%2F7de%2Fx4lugQUBvfC2Raob4HOZF%2FIJDr8lzTJvSpDFtH4JQchZw0qtKT4uMPZG0G2paNc1d7Xyi90CuDExMtbXSszUnDiA7EDYn%2FKXLyG%2BhJQtQYls2fEzPo13PcLp4bZm1uFZ2M%2FsLQ6KWNLFvOJwXX39Oqq6ZQRwsK5SDizUX8td9CCDzAUw5vBHJZGGw1xcGjGZb5IKSrKKvRlqe393pvVp9iOn1mRaK9KzacyO%2BM9oyHmyl34fOynyfdD2lFi2%2BV4qvaOW%2FhEd0oDdlE0oWepoKHddEsLDPANmhb5Xy4J%2FhIgVg5u5xmk1CSDiwgl8UNp7Rki3fRni8pBnjJeODx%2FWYreElSL8y6tJRl3eh2zStE7%2B8qmEk3Rq5%2FcX2wYYw9u4AdZUgB31iZfiYTSydaj8xTzNY89jNuFXEjSeKo5dFXHl9h3hols%2FMzrd%2BqJS7EeROFb3pDtZ4mPlT5PcwGVq5mKkMKvUlqwGOrEBFxF7482m2kWHm28NiUkpzartNtTXZzhHsfOOtCrAGVelSTka%2FquOrvJRV%2BsPX1aCVvV1daELWJ8zigcIlmHbyvt22VoPPe7hO9bQRmbTi3Ztuln7O66Cau6oiYWtRQ1q0OSVGMJELfyUE1le%2BWaCRUwtyWP2LH4qveWbggM3K0USLjmmNwCFjvxlm114sjHR7b5qLfJ0oZ2Wj2UWeSQtGCTWrfk0JC0BKPxn4UfXcPy%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231222T162821Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFCZMK4FW4%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=bce739adf575af9609657380ffe0b574a80a3df8f4a770dd0db8113847c6420c",
+  "dietLabels": [
+  "Low-Fat",
+  "Low-Sodium"
+  ],
+  "healthLabels": [
+  "Low Potassium",
+  "Kidney-Friendly",
+  "Vegan",
+  "Vegetarian",
+  "Pescatarian",
+  "Dairy-Free",
+  "Gluten-Free",
+  "Wheat-Free",
+  "Egg-Free",
+  "Peanut-Free",
+  "Tree-Nut-Free",
+  "Soy-Free",
+  "Fish-Free",
+  "Shellfish-Free",
+  "Pork-Free",
+  "Red-Meat-Free",
+  "Crustacean-Free",
+  "Celery-Free",
+  "Mustard-Free",
+  "Sesame-Free",
+  "Lupine-Free",
+  "Mollusk-Free",
+  "Alcohol-Free",
+  "No oil added",
+  "FODMAP-Free",
+  "Kosher"
+  ],
+  "ingredientLines": [
+  "2 1/2 ounces palm sugar, coarsely chopped",
+  "1/4 cup plus 1 tablespoon water"
+  ],
+  "ingredients": [
+  {
+  "text": "2 1/2 ounces palm sugar, coarsely chopped",
+  "quantity": 2.5,
+  "measure": "ounce",
+  "food": "palm sugar",
+  "weight": 70.8738078125,
+  "foodCategory": "sugars",
+  "foodId": "food_boy2xh8bm7a0p7asp89y6b7cfu73",
+  "image": "https://www.edamam.com/food-img/8c6/8c6662bd73900645c6385b51a95d9b03.jpg"
+  },
+  {
+  "text": "1/4 cup plus 1 tablespoon water",
+  "quantity": 0.25,
+  "measure": "cup",
+  "food": "water",
+  "weight": 59.147059125,
+  "foodCategory": "water",
+  "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+  "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+  },
+  {
+  "text": "1/4 cup plus 1 tablespoon water",
+  "quantity": 1,
+  "measure": "tablespoon",
+  "food": "water",
+  "weight": 14.786764781,
+  "foodCategory": "water",
+  "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+  "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+  }
+  ],
+  "cuisineType": [
+  "american"
+  ],
+  "dishType": [
+  "starter"
+  ],
+  "instructionLines": [
+  "Combine the sugar and the water in a very small pot or pan.",
+  "Set it over medium heat and cook, stirring and breaking up the sugar as it softens, just until the sugar has completely dissolved.",
+  "If the water begins to bubble before the sugar has completely dissolved, turn off the heat and let it finish dissolving in the hot liquid.",
+  "Let it cool before storing.",
+  "The syrup keeps in an airtight container in the fridge for up to 2 weeks."
+  ],
+  "summary": "Use this earthy, caramel-y syrup in Andy Ricker's Phat Thai from his new Pok Pok cookbook. Reprinted with permission from Pok Pok: Food and Stories from the Streets, Homes, and Roadside Restaurants of Thailand by Andy Ricker with JJ Goode. Copyright 2013. Published by Ten Speed Press, a division of Random House. All rights reserved. Available wherever books are sold.",
+  "tags": [
+  "Thai",
+  "Asian",
+  "Meal",
+  "Cuisine",
+  "Recipes",
+  "Condiments and Sauces"
+  ] 
+},
+{
+  "label": "Yaki Onigiri Recipe",
+"image": "https://edamam-product-images.s3.amazonaws.com/web-img/f7b/f7be5e0ab2cfb0aec620babf91d251e9.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDqmaVc2VWMw52vL3GgYlzySH9qJKT5ILYkiBBYUSL0rgIgUy3D%2Be6aZAfPfBfX6fDeTBIjtcJaD%2BJaa5X12bbYyOIquQUIMRAAGgwxODcwMTcxNTA5ODYiDKPSElJkYzt9H3uIBSqWBZvz0LMJfBLoF1pcohlns5Nz5B6qCq0RyFaM5Ft8kuAnenJlKbwQD02%2B2OqfVKiVZAgFIhIq%2BqjBnC9bl4dV5Fk0Ap3dYvHCE8%2FaKxfmwXTaaW%2F6%2BS1OC1FcvtQBmezlEcKCqeQEN92gR23vdLBrUOiegeEjUcWO7nO%2BouOVPn%2FbyqpjBDpLP6d1m1OQsYfX5d3J4tsRFyqtMxjxaMVZH5RZHjiAiamkKpx8elqqDSYrKfPJ2WtEBfEJRh8yJU%2FrpQf0CmAGxgeWU%2FUX3GiG6Ey45Fw2wunCCgSmt%2FM3BaTgdqvPmUQCwXzUaxs7Jl4o55e0vAehwzZxRevEJnrac4zaVAoOZbyf183mhOm1tXt5hIt2FaT84V5CwjyzCFHYsdP5vnyEuoG%2BJ4xpmSGk2hl%2F7de%2Fx4lugQUBvfC2Raob4HOZF%2FIJDr8lzTJvSpDFtH4JQchZw0qtKT4uMPZG0G2paNc1d7Xyi90CuDExMtbXSszUnDiA7EDYn%2FKXLyG%2BhJQtQYls2fEzPo13PcLp4bZm1uFZ2M%2FsLQ6KWNLFvOJwXX39Oqq6ZQRwsK5SDizUX8td9CCDzAUw5vBHJZGGw1xcGjGZb5IKSrKKvRlqe393pvVp9iOn1mRaK9KzacyO%2BM9oyHmyl34fOynyfdD2lFi2%2BV4qvaOW%2FhEd0oDdlE0oWepoKHddEsLDPANmhb5Xy4J%2FhIgVg5u5xmk1CSDiwgl8UNp7Rki3fRni8pBnjJeODx%2FWYreElSL8y6tJRl3eh2zStE7%2B8qmEk3Rq5%2FcX2wYYw9u4AdZUgB31iZfiYTSydaj8xTzNY89jNuFXEjSeKo5dFXHl9h3hols%2FMzrd%2BqJS7EeROFb3pDtZ4mPlT5PcwGVq5mKkMKvUlqwGOrEBFxF7482m2kWHm28NiUkpzartNtTXZzhHsfOOtCrAGVelSTka%2FquOrvJRV%2BsPX1aCVvV1daELWJ8zigcIlmHbyvt22VoPPe7hO9bQRmbTi3Ztuln7O66Cau6oiYWtRQ1q0OSVGMJELfyUE1le%2BWaCRUwtyWP2LH4qveWbggM3K0USLjmmNwCFjvxlm114sjHR7b5qLfJ0oZ2Wj2UWeSQtGCTWrfk0JC0BKPxn4UfXcPy%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231222T162821Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFCZMK4FW4%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6da60958dddfbb71ad02af29601f46cf7aeb4b29973a68efd8e21d0ed80d2e73",
+"dietLabels": [
+"Low-Fat"
+],
+"healthLabels": [
+"Sugar-Conscious",
+"Vegan",
+"Vegetarian",
+"Pescatarian",
+"Mediterranean",
+"Dairy-Free",
+"Egg-Free",
+"Peanut-Free",
+"Tree-Nut-Free",
+"Fish-Free",
+"Shellfish-Free",
+"Pork-Free",
+"Red-Meat-Free",
+"Crustacean-Free",
+"Celery-Free",
+"Mustard-Free",
+"Sesame-Free",
+"Lupine-Free",
+"Mollusk-Free",
+"Alcohol-Free",
+"No oil added",
+"Kosher"
+],
+"ingredientLines": [
+"3 cups cooked short-grain white rice, or 2 cups white rice and 1 cup brown rice",
+"1/4 cup soy sauce for glazing"
+],
+"ingredients": [
+{
+"text": "3 cups cooked short-grain white rice, or 2 cups white rice and 1 cup brown rice",
+"quantity": 3,
+"measure": "cup",
+"food": "white rice",
+"weight": 585,
+"foodCategory": "grains",
+"foodId": "food_bpumdjzb5rtqaeabb0kbgbcgr4t9",
+"image": "https://www.edamam.com/food-img/0fc/0fc9fa8a3e0276198d75b2e259068f8a.jpg"
+},
+{
+"text": "3 cups cooked short-grain white rice, or 2 cups white rice and 1 cup brown rice",
+"quantity": 1,
+"measure": "cup",
+"food": "brown rice",
+"weight": 190,
+"foodCategory": "grains",
+"foodId": "food_aro09r9avsklizbsberuoaegj0uh",
+"image": "https://www.edamam.com/food-img/c45/c453c255234a6f7f798d3f2aaa74bbcd.jpg"
+},
+{
+"text": "1/4 cup soy sauce for glazing",
+"quantity": 0.25,
+"measure": "cup",
+"food": "soy sauce",
+"weight": 63.75,
+"foodCategory": "plant-based protein",
+"foodId": "food_a5g9yevb1iactoaiimbvjbkrxueh",
+"image": "https://www.edamam.com/food-img/f56/f562e461eb0618f367f538b836c17b82.jpg"
+}
+],
+"cuisineType": [
+"italian"
+],
+"dishType": [
+"starter"
+],
+"instructionLines": [
+"Wet your hands and scoop balls of rice, approximately 2/3 cups of rice per ball, between your cupped palms.",
+"Squeeze and compress the rice balls to form it into a triangular shape.",
+"Brush the onigiri with the soy sauce and set aside until you are ready to grill.",
+"Onigiri made be made in advance and kept covered at room temperature for a few hours.",
+"Grill yaki onigiri over low heat on the edges of a grilll, taking care not to burn the rice.",
+"Place the balls carefully on the grate and let the bottom sides harden and brown, about 10 minutes, before flipping them.",
+"Flip carefully with a pair of tongs so as not to break the compacted onigiri.",
+"Brown for another 10 minutes or so on the other side.",
+"Serve immediately, with extra soy sauce for dipping."
+],
+"summary": "This recipe appears in: Seriously Asian: Grilled Rice",
+"tags": [
+"vegetarian",
+"Asian",
+"rice",
+"onigiri",
+"Seriously Asian"
+]
+},
+{
+  "label": "Hot Mustard Recipe",
+"image": "https://edamam-product-images.s3.amazonaws.com/web-img/763/763db92ae80034291d23eec6516fb1ea.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDqmaVc2VWMw52vL3GgYlzySH9qJKT5ILYkiBBYUSL0rgIgUy3D%2Be6aZAfPfBfX6fDeTBIjtcJaD%2BJaa5X12bbYyOIquQUIMRAAGgwxODcwMTcxNTA5ODYiDKPSElJkYzt9H3uIBSqWBZvz0LMJfBLoF1pcohlns5Nz5B6qCq0RyFaM5Ft8kuAnenJlKbwQD02%2B2OqfVKiVZAgFIhIq%2BqjBnC9bl4dV5Fk0Ap3dYvHCE8%2FaKxfmwXTaaW%2F6%2BS1OC1FcvtQBmezlEcKCqeQEN92gR23vdLBrUOiegeEjUcWO7nO%2BouOVPn%2FbyqpjBDpLP6d1m1OQsYfX5d3J4tsRFyqtMxjxaMVZH5RZHjiAiamkKpx8elqqDSYrKfPJ2WtEBfEJRh8yJU%2FrpQf0CmAGxgeWU%2FUX3GiG6Ey45Fw2wunCCgSmt%2FM3BaTgdqvPmUQCwXzUaxs7Jl4o55e0vAehwzZxRevEJnrac4zaVAoOZbyf183mhOm1tXt5hIt2FaT84V5CwjyzCFHYsdP5vnyEuoG%2BJ4xpmSGk2hl%2F7de%2Fx4lugQUBvfC2Raob4HOZF%2FIJDr8lzTJvSpDFtH4JQchZw0qtKT4uMPZG0G2paNc1d7Xyi90CuDExMtbXSszUnDiA7EDYn%2FKXLyG%2BhJQtQYls2fEzPo13PcLp4bZm1uFZ2M%2FsLQ6KWNLFvOJwXX39Oqq6ZQRwsK5SDizUX8td9CCDzAUw5vBHJZGGw1xcGjGZb5IKSrKKvRlqe393pvVp9iOn1mRaK9KzacyO%2BM9oyHmyl34fOynyfdD2lFi2%2BV4qvaOW%2FhEd0oDdlE0oWepoKHddEsLDPANmhb5Xy4J%2FhIgVg5u5xmk1CSDiwgl8UNp7Rki3fRni8pBnjJeODx%2FWYreElSL8y6tJRl3eh2zStE7%2B8qmEk3Rq5%2FcX2wYYw9u4AdZUgB31iZfiYTSydaj8xTzNY89jNuFXEjSeKo5dFXHl9h3hols%2FMzrd%2BqJS7EeROFb3pDtZ4mPlT5PcwGVq5mKkMKvUlqwGOrEBFxF7482m2kWHm28NiUkpzartNtTXZzhHsfOOtCrAGVelSTka%2FquOrvJRV%2BsPX1aCVvV1daELWJ8zigcIlmHbyvt22VoPPe7hO9bQRmbTi3Ztuln7O66Cau6oiYWtRQ1q0OSVGMJELfyUE1le%2BWaCRUwtyWP2LH4qveWbggM3K0USLjmmNwCFjvxlm114sjHR7b5qLfJ0oZ2Wj2UWeSQtGCTWrfk0JC0BKPxn4UfXcPy%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231222T162821Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFCZMK4FW4%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3caf3d7bfdcad76c810d688f0e26124adc6ecdf6a5e7c0da0cb3f11c084598d5",
+"dietLabels": [
+"Low-Carb",
+"Low-Sodium"
+],
+"healthLabels": [
+"Sugar-Conscious",
+"Low Potassium",
+"Kidney-Friendly",
+"Keto-Friendly",
+"Vegan",
+"Vegetarian",
+"Pescatarian",
+"Paleo",
+"Mediterranean",
+"Dairy-Free",
+"Gluten-Free",
+"Wheat-Free",
+"Egg-Free",
+"Peanut-Free",
+"Tree-Nut-Free",
+"Soy-Free",
+"Fish-Free",
+"Shellfish-Free",
+"Pork-Free",
+"Red-Meat-Free",
+"Crustacean-Free",
+"Celery-Free",
+"Sesame-Free",
+"Lupine-Free",
+"Mollusk-Free",
+"Alcohol-Free",
+"No oil added",
+"Sulfite-Free",
+"FODMAP-Free",
+"Kosher"
+],
+"ingredientLines": [
+"3 tablespoons hot mustard powder, such as Colman’s",
+"3 tablespoons cold water"
+],
+"ingredients": [
+{
+"text": "3 tablespoons hot mustard powder, such as Colman’s",
+"quantity": 3,
+"measure": "tablespoon",
+"food": "mustard powder",
+"weight": 18.9,
+"foodCategory": "Condiments and sauces",
+"foodId": "food_b0xqxo3a93nsz8a6ppdilau4ujwt",
+"image": "https://www.edamam.com/food-img/9ff/9ff9e6d04cbc71ff884f3212afa0adfd.jpg"
+},
+{
+"text": "3 tablespoons cold water",
+"quantity": 3,
+"measure": "tablespoon",
+"food": "water",
+"weight": 44.360294343,
+"foodCategory": "water",
+"foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+"image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+}
+],
+"cuisineType": [
+"chinese"
+],
+"dishType": [
+"starter"
+],
+"instructionLines": [
+"In a small bowl, whisk together mustard powder and water until completely combined.",
+"Let rest for 15 minutes; use immediately."
+],
+"summary": "This recipe appears in: Sauced: Hot Mustard",
+"tags": [
+"quick",
+"mustard",
+"condiments",
+"Sauced"
+]
+},
+{
+  "label": "Momofuku Milk Bar's Cereal Milk Recipe",
+  "image": "https://edamam-product-images.s3.amazonaws.com/web-img/86e/86ede52fbe3a2884b35763f628b39927.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDqmaVc2VWMw52vL3GgYlzySH9qJKT5ILYkiBBYUSL0rgIgUy3D%2Be6aZAfPfBfX6fDeTBIjtcJaD%2BJaa5X12bbYyOIquQUIMRAAGgwxODcwMTcxNTA5ODYiDKPSElJkYzt9H3uIBSqWBZvz0LMJfBLoF1pcohlns5Nz5B6qCq0RyFaM5Ft8kuAnenJlKbwQD02%2B2OqfVKiVZAgFIhIq%2BqjBnC9bl4dV5Fk0Ap3dYvHCE8%2FaKxfmwXTaaW%2F6%2BS1OC1FcvtQBmezlEcKCqeQEN92gR23vdLBrUOiegeEjUcWO7nO%2BouOVPn%2FbyqpjBDpLP6d1m1OQsYfX5d3J4tsRFyqtMxjxaMVZH5RZHjiAiamkKpx8elqqDSYrKfPJ2WtEBfEJRh8yJU%2FrpQf0CmAGxgeWU%2FUX3GiG6Ey45Fw2wunCCgSmt%2FM3BaTgdqvPmUQCwXzUaxs7Jl4o55e0vAehwzZxRevEJnrac4zaVAoOZbyf183mhOm1tXt5hIt2FaT84V5CwjyzCFHYsdP5vnyEuoG%2BJ4xpmSGk2hl%2F7de%2Fx4lugQUBvfC2Raob4HOZF%2FIJDr8lzTJvSpDFtH4JQchZw0qtKT4uMPZG0G2paNc1d7Xyi90CuDExMtbXSszUnDiA7EDYn%2FKXLyG%2BhJQtQYls2fEzPo13PcLp4bZm1uFZ2M%2FsLQ6KWNLFvOJwXX39Oqq6ZQRwsK5SDizUX8td9CCDzAUw5vBHJZGGw1xcGjGZb5IKSrKKvRlqe393pvVp9iOn1mRaK9KzacyO%2BM9oyHmyl34fOynyfdD2lFi2%2BV4qvaOW%2FhEd0oDdlE0oWepoKHddEsLDPANmhb5Xy4J%2FhIgVg5u5xmk1CSDiwgl8UNp7Rki3fRni8pBnjJeODx%2FWYreElSL8y6tJRl3eh2zStE7%2B8qmEk3Rq5%2FcX2wYYw9u4AdZUgB31iZfiYTSydaj8xTzNY89jNuFXEjSeKo5dFXHl9h3hols%2FMzrd%2BqJS7EeROFb3pDtZ4mPlT5PcwGVq5mKkMKvUlqwGOrEBFxF7482m2kWHm28NiUkpzartNtTXZzhHsfOOtCrAGVelSTka%2FquOrvJRV%2BsPX1aCVvV1daELWJ8zigcIlmHbyvt22VoPPe7hO9bQRmbTi3Ztuln7O66Cau6oiYWtRQ1q0OSVGMJELfyUE1le%2BWaCRUwtyWP2LH4qveWbggM3K0USLjmmNwCFjvxlm114sjHR7b5qLfJ0oZ2Wj2UWeSQtGCTWrfk0JC0BKPxn4UfXcPy%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231222T162821Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFCZMK4FW4%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e514a856efd13caf17d4b7a4e1c95196ce00639aebe7d1aad1c838b2a4faf4a5",
+  "dietLabels": [
+  "Balanced"
+  ],
+  "healthLabels": [
+  "Vegetarian",
+  "Pescatarian",
+  "Wheat-Free",
+  "Egg-Free",
+  "Peanut-Free",
+  "Tree-Nut-Free",
+  "Soy-Free",
+  "Fish-Free",
+  "Shellfish-Free",
+  "Pork-Free",
+  "Red-Meat-Free",
+  "Crustacean-Free",
+  "Celery-Free",
+  "Mustard-Free",
+  "Sesame-Free",
+  "Lupine-Free",
+  "Mollusk-Free",
+  "Alcohol-Free",
+  "No oil added",
+  "Kosher"
+  ],
+  "ingredientLines": [
+  "2 ¾ cups (100 grams) cornflakes",
+  "3 ¾ cups (825 grams) cold milk",
+  "2 tablespoons (30 grams) light brown sugar, tightly packed",
+  "¼ teaspoon (1 gram) kosher salt"
+  ],
+  "ingredients": [
+  {
+  "text": "2 ¾ cups (100 grams) cornflakes",
+  "quantity": 100,
+  "measure": "gram",
+  "food": "cornflakes",
+  "weight": 100,
+  "foodCategory": "ready-to-eat cereals",
+  "foodId": "food_aj8qyl6ap2bot8b2tomgkbsf8c60",
+  "image": "https://www.edamam.com/food-img/41d/41d5be2eed127f64f9b2c3e74cf6b12b.jpg"
+  },
+  {
+  "text": "3 ¾ cups (825 grams) cold milk",
+  "quantity": 825,
+  "measure": "gram",
+  "food": "milk",
+  "weight": 825,
+  "foodCategory": "Milk",
+  "foodId": "food_b49rs1kaw0jktabzkg2vvanvvsis",
+  "image": "https://www.edamam.com/food-img/7c9/7c9962acf83654a8d98ea6a2ade93735.jpg"
+  },
+  {
+  "text": "2 tablespoons (30 grams) light brown sugar, tightly packed",
+  "quantity": 30,
+  "measure": "gram",
+  "food": "light brown sugar",
+  "weight": 30,
+  "foodCategory": "sugars",
+  "foodId": "food_aodgtqwbmeu5f6bxeffn0art3bga",
+  "image": "https://www.edamam.com/food-img/8c6/8c6662bd73900645c6385b51a95d9b03.jpg"
+  },
+  {
+  "text": "¼ teaspoon (1 gram) kosher salt",
+  "quantity": 1,
+  "measure": "gram",
+  "food": "kosher salt",
+  "weight": 1,
+  "foodCategory": "Condiments and sauces",
+  "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+  "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+  }
+  ],
+  "cuisineType": [
+  "american"
+  ],
+  "dishType": [
+  "starter"
+  ],
+  "instructionLines": [
+  "Heat the oven to 300°F.",
+  "Spread the cornflakes on a parchment-lined sheet pan.",
+  "Bake for 15 minutes, until lightly toasted.",
+  "Cool completely.",
+  "Transfer the cooled cornflakes to a large pitcher.",
+  "Pour the milk into the pitcher and stir vigorously.",
+  "Let steep for 20 minutes at room temperature.",
+  "Strain the mixture through a fine-mesh sieve, collecting the milk in a medium bowl.",
+  "The milk will drain off quickly at first, then become thicker and starchy toward the end of the straining process.",
+  "Using the back of a ladle (or your hand), wring the milk out of the cornflakes, but do not force the mushy cornflakes through the sieve. (We compost the cornflake remains or take them home to our dogs!)",
+  "Whisk the brown sugar and salt into the milk until fully dissolved.",
+  "Store in a clean pitcher or glass milk jug, refrigerated, for up to 1 week."
+  ],
+  "summary": "This recipe appears in: Bake the Book: Momofuku Milk Bar's Cereal Milk [Photograph: Gabriele Stabile and Mark Ibol] Christina Tosi's Cereal Milk brings that none too fancy morning breakfast combo into the pastry kitchen by turning toasted cornflakes steeped in milk into the base for ice cream, panna cotta and ice cream pies. Note: Toasting the cornflakes before steeping them deepens the flavor of the milk. Taste your cereal milk after you make it. If you want it a little sweeter, don't be shy; add a little more brown sugar. If you want a more mellow cereal milk, add a splash of fresh milk and a pinch of salt. Reprinted with permission from Momofuku Milk Bar by Christina Tosi. Copyright © 2011. Published by Clarkson Potter. Available wherever books are sold. All rights reserved.",
+  "tags": [
+  "cereal",
+  "milk",
+  "Bake the Book",
+  "Christina Tosi",
+  "Momofuku Milk Bar"
+  ]
+},
+{
+  "label": "The Secret Ingredient (Mango Chutney): Chutney and Cheddar Toasties Recipe",
+"image": "https://edamam-product-images.s3.amazonaws.com/web-img/03d/03d194894beabaa408585107c668093d.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDqmaVc2VWMw52vL3GgYlzySH9qJKT5ILYkiBBYUSL0rgIgUy3D%2Be6aZAfPfBfX6fDeTBIjtcJaD%2BJaa5X12bbYyOIquQUIMRAAGgwxODcwMTcxNTA5ODYiDKPSElJkYzt9H3uIBSqWBZvz0LMJfBLoF1pcohlns5Nz5B6qCq0RyFaM5Ft8kuAnenJlKbwQD02%2B2OqfVKiVZAgFIhIq%2BqjBnC9bl4dV5Fk0Ap3dYvHCE8%2FaKxfmwXTaaW%2F6%2BS1OC1FcvtQBmezlEcKCqeQEN92gR23vdLBrUOiegeEjUcWO7nO%2BouOVPn%2FbyqpjBDpLP6d1m1OQsYfX5d3J4tsRFyqtMxjxaMVZH5RZHjiAiamkKpx8elqqDSYrKfPJ2WtEBfEJRh8yJU%2FrpQf0CmAGxgeWU%2FUX3GiG6Ey45Fw2wunCCgSmt%2FM3BaTgdqvPmUQCwXzUaxs7Jl4o55e0vAehwzZxRevEJnrac4zaVAoOZbyf183mhOm1tXt5hIt2FaT84V5CwjyzCFHYsdP5vnyEuoG%2BJ4xpmSGk2hl%2F7de%2Fx4lugQUBvfC2Raob4HOZF%2FIJDr8lzTJvSpDFtH4JQchZw0qtKT4uMPZG0G2paNc1d7Xyi90CuDExMtbXSszUnDiA7EDYn%2FKXLyG%2BhJQtQYls2fEzPo13PcLp4bZm1uFZ2M%2FsLQ6KWNLFvOJwXX39Oqq6ZQRwsK5SDizUX8td9CCDzAUw5vBHJZGGw1xcGjGZb5IKSrKKvRlqe393pvVp9iOn1mRaK9KzacyO%2BM9oyHmyl34fOynyfdD2lFi2%2BV4qvaOW%2FhEd0oDdlE0oWepoKHddEsLDPANmhb5Xy4J%2FhIgVg5u5xmk1CSDiwgl8UNp7Rki3fRni8pBnjJeODx%2FWYreElSL8y6tJRl3eh2zStE7%2B8qmEk3Rq5%2FcX2wYYw9u4AdZUgB31iZfiYTSydaj8xTzNY89jNuFXEjSeKo5dFXHl9h3hols%2FMzrd%2BqJS7EeROFb3pDtZ4mPlT5PcwGVq5mKkMKvUlqwGOrEBFxF7482m2kWHm28NiUkpzartNtTXZzhHsfOOtCrAGVelSTka%2FquOrvJRV%2BsPX1aCVvV1daELWJ8zigcIlmHbyvt22VoPPe7hO9bQRmbTi3Ztuln7O66Cau6oiYWtRQ1q0OSVGMJELfyUE1le%2BWaCRUwtyWP2LH4qveWbggM3K0USLjmmNwCFjvxlm114sjHR7b5qLfJ0oZ2Wj2UWeSQtGCTWrfk0JC0BKPxn4UfXcPy%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231222T162821Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFCZMK4FW4%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a6c46eeafa0672ac8f8a7db79c44ff531378de72ff8997b2a2c6366f13365208",
+"dietLabels": [
+"Balanced"
+],
+"healthLabels": [
+"Low Potassium",
+"Kidney-Friendly",
+"Vegetarian",
+"Pescatarian",
+"Egg-Free",
+"Peanut-Free",
+"Tree-Nut-Free",
+"Soy-Free",
+"Fish-Free",
+"Shellfish-Free",
+"Pork-Free",
+"Red-Meat-Free",
+"Crustacean-Free",
+"Celery-Free",
+"Mustard-Free",
+"Sesame-Free",
+"Lupine-Free",
+"Mollusk-Free",
+"Alcohol-Free",
+"Kosher"
+],
+"ingredientLines": [
+"Unsalted butter, room temperature",
+"2 slices white sandwich bread",
+"2 teaspoons mango chutney",
+"1/4 cup shredded mature white cheddar cheese"
+],
+"ingredients": [
+{
+"text": "Unsalted butter, room temperature",
+"quantity": 0,
+"measure": null,
+"food": "Unsalted butter",
+"weight": 1.3543333333425307,
+"foodCategory": "Dairy",
+"foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+"image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+},
+{
+"text": "2 slices white sandwich bread",
+"quantity": 2,
+"measure": "slice",
+"food": "sandwich bread",
+"weight": 58,
+"foodCategory": "bread, rolls and tortillas",
+"foodId": "food_a3049hmbqj5wstaeeb3udaz6uaqv",
+"image": "https://www.edamam.com/food-img/886/886960f6ce6ccec5b9163bacf2996853.jpg"
+},
+{
+"text": "2 teaspoons mango chutney",
+"quantity": 2,
+"measure": "teaspoon",
+"food": "mango chutney",
+"weight": 13.333333334009616,
+"foodCategory": "sugar syrups",
+"foodId": "food_a89tqfuadwxg46bno97l4b0yk5jf",
+"image": "https://www.edamam.com/food-img/55e/55e9572a1c35eeedc4900c5430f821b8.jpg"
+},
+{
+"text": "1/4 cup shredded mature white cheddar cheese",
+"quantity": 0.25,
+"measure": "cup",
+"food": "white cheddar cheese",
+"weight": 28.25,
+"foodCategory": "Cheese",
+"foodId": "food_bhppgmha1u27voagb8eptbp9g376",
+"image": "https://www.edamam.com/food-img/bcd/bcd94dde1fcde1475b5bf0540f821c5d.jpg"
+}
+],
+"cuisineType": [
+"indian"
+],
+"dishType": [
+"starter"
+],
+"instructionLines": [
+"Lightly butter one side of the bread.",
+"Smear the unbuttered side of each slice of bread with 1 teaspoon mango chutney.",
+"Pile the cheese in the center of one slice of bread, with the butter on the outside of the sandwich, and top with the other slice of bread, also butter side out.",
+"Heat a wide saute pan over medium-low heat.",
+"Toast the sandwich for 4 minutes on the first side, or until the bread is golden and crisp and the cheese begins to melt.",
+"Use a spatula to flip the sandwich over, and toast another 4 minutes.",
+"The cheese should be totally melted.",
+"Cut the sandwich in half on the diagonal, and serve immediately."
+],
+"summary": "If imitation is the sincerest form of flattery, then I don't feel so bad about being a copy-cat. Around the corner from where my English boyfriend grew up is a recently reinvigorated gastropub. The beers and ciders are to be expected; but the foie gras toastie, less so. If you're wondering what a \"toastie\" could be, it's just a cutesy English name for a grilled cheese sandwich. At this gastropub, the toasties are all stuffed with melting, oozing English cheddar, and a variety of accents: foie gras, for example; spring onions; or, my favorite, mango chutney. Mango chutney, a chunky condiment from India and Pakistan that is found everywhere in the UK, is made from raw, green mangoes, which explains some of that tart, almost citrusy flavor. Mango chutney is sweet, but also quite savory, with whole spices, and tart, with vinegar. The combination is perfect with melting cheese. The sweetness of the fruit works in that same way of cheese plates with grapes, and the tartness cuts through the fattiness of the cheese. The chutney and the cheddar, squeezed together between two crusty toasted slices of bread, is the perfect snack. And I don't have to walk around the corner to the pub.",
+"tags": [
+"sandwich",
+"grilled cheese",
+"mango chutney",
+"cheese",
+"mangoes",
+"The Secret Ingredient"
+]
+},
+{
+  "label": "Deep Fried Fish Bones",
+"image": "https://edamam-product-images.s3.amazonaws.com/web-img/c8c/c8ccf12e2aa2c78b94817f18cd4eaff2.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDqmaVc2VWMw52vL3GgYlzySH9qJKT5ILYkiBBYUSL0rgIgUy3D%2Be6aZAfPfBfX6fDeTBIjtcJaD%2BJaa5X12bbYyOIquQUIMRAAGgwxODcwMTcxNTA5ODYiDKPSElJkYzt9H3uIBSqWBZvz0LMJfBLoF1pcohlns5Nz5B6qCq0RyFaM5Ft8kuAnenJlKbwQD02%2B2OqfVKiVZAgFIhIq%2BqjBnC9bl4dV5Fk0Ap3dYvHCE8%2FaKxfmwXTaaW%2F6%2BS1OC1FcvtQBmezlEcKCqeQEN92gR23vdLBrUOiegeEjUcWO7nO%2BouOVPn%2FbyqpjBDpLP6d1m1OQsYfX5d3J4tsRFyqtMxjxaMVZH5RZHjiAiamkKpx8elqqDSYrKfPJ2WtEBfEJRh8yJU%2FrpQf0CmAGxgeWU%2FUX3GiG6Ey45Fw2wunCCgSmt%2FM3BaTgdqvPmUQCwXzUaxs7Jl4o55e0vAehwzZxRevEJnrac4zaVAoOZbyf183mhOm1tXt5hIt2FaT84V5CwjyzCFHYsdP5vnyEuoG%2BJ4xpmSGk2hl%2F7de%2Fx4lugQUBvfC2Raob4HOZF%2FIJDr8lzTJvSpDFtH4JQchZw0qtKT4uMPZG0G2paNc1d7Xyi90CuDExMtbXSszUnDiA7EDYn%2FKXLyG%2BhJQtQYls2fEzPo13PcLp4bZm1uFZ2M%2FsLQ6KWNLFvOJwXX39Oqq6ZQRwsK5SDizUX8td9CCDzAUw5vBHJZGGw1xcGjGZb5IKSrKKvRlqe393pvVp9iOn1mRaK9KzacyO%2BM9oyHmyl34fOynyfdD2lFi2%2BV4qvaOW%2FhEd0oDdlE0oWepoKHddEsLDPANmhb5Xy4J%2FhIgVg5u5xmk1CSDiwgl8UNp7Rki3fRni8pBnjJeODx%2FWYreElSL8y6tJRl3eh2zStE7%2B8qmEk3Rq5%2FcX2wYYw9u4AdZUgB31iZfiYTSydaj8xTzNY89jNuFXEjSeKo5dFXHl9h3hols%2FMzrd%2BqJS7EeROFb3pDtZ4mPlT5PcwGVq5mKkMKvUlqwGOrEBFxF7482m2kWHm28NiUkpzartNtTXZzhHsfOOtCrAGVelSTka%2FquOrvJRV%2BsPX1aCVvV1daELWJ8zigcIlmHbyvt22VoPPe7hO9bQRmbTi3Ztuln7O66Cau6oiYWtRQ1q0OSVGMJELfyUE1le%2BWaCRUwtyWP2LH4qveWbggM3K0USLjmmNwCFjvxlm114sjHR7b5qLfJ0oZ2Wj2UWeSQtGCTWrfk0JC0BKPxn4UfXcPy%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231222T162821Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFCZMK4FW4%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d8732953fa737236c5b16ed83a7de854fe02d8f33cb213d4b814259daba53f20",
+"dietLabels": [
+"Low-Carb"
+],
+"healthLabels": [
+"Sugar-Conscious",
+"Low Sugar",
+"Keto-Friendly",
+"Pescatarian",
+"Mediterranean",
+"Dairy-Free",
+"Gluten-Free",
+"Wheat-Free",
+"Egg-Free",
+"Peanut-Free",
+"Tree-Nut-Free",
+"Soy-Free",
+"Shellfish-Free",
+"Pork-Free",
+"Red-Meat-Free",
+"Crustacean-Free",
+"Celery-Free",
+"Mustard-Free",
+"Sesame-Free",
+"Lupine-Free",
+"Mollusk-Free",
+"Alcohol-Free",
+"Sulfite-Free",
+"FODMAP-Free",
+"Kosher",
+"Immuno-Supportive"
+],
+"ingredientLines": [
+"8 small whiting fish or smelt",
+"4 cups vegetable oil"
+],
+"ingredients": [
+{
+"text": "8 small whiting fish or smelt",
+"quantity": 8,
+"measure": "<unit>",
+"food": "fish",
+"weight": 1280,
+"foodCategory": "seafood",
+"foodId": "food_ar6pjbvaxqtlqia7jewa4brld7p9",
+"image": "https://www.edamam.com/food-img/717/717cb400eb49626bb7c95cd29292cef4.jpg"
+},
+{
+"text": "4 cups vegetable oil",
+"quantity": 4,
+"measure": "cup",
+"food": "vegetable oil",
+"weight": 896.0000000151487,
+"foodCategory": "Oils",
+"foodId": "food_bt1mzi2ah2sfg8bv7no1qai83w8s",
+"image": "https://www.edamam.com/food-img/6e5/6e51a63a6300a8ea1b4c4cc68dfaba33.jpg"
+}
+],
+"cuisineType": [
+"south east asian"
+],
+"dishType": [
+"starter"
+],
+"instructionLines": [
+"1 Separate the flesh from the head by cutting behind the gill flap of each fish.",
+"Keeping your knife against the bones, cut along the length of the fish to remove the fillet, peeling the flesh away as you go.",
+"Turn the fish over and repeat.",
+"Keep the tails on.",
+"Store the fillets for another use. 2 Heat 4 cups of vegetable oil in a wok or deep saucepan until it reaches 375°F.",
+"Add a few bones at a time and fry until crispy and lightly golden brown, about 2 to 3 minutes.",
+"Remove and drain on paper towels, sprinkle with salt.",
+"Serve immediately or at room temperature."
+],
+"summary": "[Photograph: Chichi Wang]"
+},
+{
+  "label": "Eggs in Bacon Baskets Recipe",
+"image": "https://edamam-product-images.s3.amazonaws.com/web-img/032/0328892a208744147ea5b03a9d51bcd7.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDqmaVc2VWMw52vL3GgYlzySH9qJKT5ILYkiBBYUSL0rgIgUy3D%2Be6aZAfPfBfX6fDeTBIjtcJaD%2BJaa5X12bbYyOIquQUIMRAAGgwxODcwMTcxNTA5ODYiDKPSElJkYzt9H3uIBSqWBZvz0LMJfBLoF1pcohlns5Nz5B6qCq0RyFaM5Ft8kuAnenJlKbwQD02%2B2OqfVKiVZAgFIhIq%2BqjBnC9bl4dV5Fk0Ap3dYvHCE8%2FaKxfmwXTaaW%2F6%2BS1OC1FcvtQBmezlEcKCqeQEN92gR23vdLBrUOiegeEjUcWO7nO%2BouOVPn%2FbyqpjBDpLP6d1m1OQsYfX5d3J4tsRFyqtMxjxaMVZH5RZHjiAiamkKpx8elqqDSYrKfPJ2WtEBfEJRh8yJU%2FrpQf0CmAGxgeWU%2FUX3GiG6Ey45Fw2wunCCgSmt%2FM3BaTgdqvPmUQCwXzUaxs7Jl4o55e0vAehwzZxRevEJnrac4zaVAoOZbyf183mhOm1tXt5hIt2FaT84V5CwjyzCFHYsdP5vnyEuoG%2BJ4xpmSGk2hl%2F7de%2Fx4lugQUBvfC2Raob4HOZF%2FIJDr8lzTJvSpDFtH4JQchZw0qtKT4uMPZG0G2paNc1d7Xyi90CuDExMtbXSszUnDiA7EDYn%2FKXLyG%2BhJQtQYls2fEzPo13PcLp4bZm1uFZ2M%2FsLQ6KWNLFvOJwXX39Oqq6ZQRwsK5SDizUX8td9CCDzAUw5vBHJZGGw1xcGjGZb5IKSrKKvRlqe393pvVp9iOn1mRaK9KzacyO%2BM9oyHmyl34fOynyfdD2lFi2%2BV4qvaOW%2FhEd0oDdlE0oWepoKHddEsLDPANmhb5Xy4J%2FhIgVg5u5xmk1CSDiwgl8UNp7Rki3fRni8pBnjJeODx%2FWYreElSL8y6tJRl3eh2zStE7%2B8qmEk3Rq5%2FcX2wYYw9u4AdZUgB31iZfiYTSydaj8xTzNY89jNuFXEjSeKo5dFXHl9h3hols%2FMzrd%2BqJS7EeROFb3pDtZ4mPlT5PcwGVq5mKkMKvUlqwGOrEBFxF7482m2kWHm28NiUkpzartNtTXZzhHsfOOtCrAGVelSTka%2FquOrvJRV%2BsPX1aCVvV1daELWJ8zigcIlmHbyvt22VoPPe7hO9bQRmbTi3Ztuln7O66Cau6oiYWtRQ1q0OSVGMJELfyUE1le%2BWaCRUwtyWP2LH4qveWbggM3K0USLjmmNwCFjvxlm114sjHR7b5qLfJ0oZ2Wj2UWeSQtGCTWrfk0JC0BKPxn4UfXcPy%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231222T162821Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFCZMK4FW4%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5c695992fa5ba61854e634edcd98a0c12cd310d2692ffbf38519a025909e78e0",
+"dietLabels": [
+"Low-Carb"
+],
+"healthLabels": [
+"Sugar-Conscious",
+"Keto-Friendly",
+"Paleo",
+"Dairy-Free",
+"Gluten-Free",
+"Wheat-Free",
+"Peanut-Free",
+"Tree-Nut-Free",
+"Soy-Free",
+"Fish-Free",
+"Shellfish-Free",
+"Crustacean-Free",
+"Celery-Free",
+"Mustard-Free",
+"Sesame-Free",
+"Lupine-Free",
+"Mollusk-Free",
+"Alcohol-Free",
+"No oil added",
+"Sulfite-Free",
+"FODMAP-Free",
+"Immuno-Supportive"
+],
+"ingredientLines": [
+"8 eggs",
+"8 slices bacon"
+],
+"ingredients": [
+{
+"text": "8 eggs",
+"quantity": 8,
+"measure": "<unit>",
+"food": "eggs",
+"weight": 344,
+"foodCategory": "Eggs",
+"foodId": "food_bhpradua77pk16aipcvzeayg732r",
+"image": "https://www.edamam.com/food-img/a7e/a7ec7c337cb47c6550b3b118e357f077.jpg"
+},
+{
+"text": "8 slices bacon",
+"quantity": 8,
+"measure": "slice",
+"food": "bacon",
+"weight": 232,
+"foodCategory": "cured meats",
+"foodId": "food_av0awb0bgs18qub01sd9kbx44b61",
+"image": "https://www.edamam.com/food-img/d42/d426884a125fa39a70d5a5d7217864ec.jpg"
+}
+],
+"cuisineType": [
+"british"
+],
+"dishType": [
+"starter"
+],
+"instructionLines": [
+"Adjust oven rack to middle position and preheat to 425°F.",
+"Place 3 pieces paper towel on a microwavable plate then lay bacon on paper towel, microwave on high power until bacon has just begun to cook and some of the fat has rendered out, 1 to 1 1/2 minutes.",
+"Coil each piece of bacon around each cup in a muffin tin, making sure the bottom of the cup is covered as well.",
+"Place any of the additional fillings in the bottom of the cup (see recipes below) then crack an egg into each cup on top of the fillings.",
+"Bake until the whites of the eggs are set but the yolk is still runny, about 10 minutes.",
+"Serve immediately.",
+"Garlicky Spinach Filling: 1 tablespoon butter 2 cloves garlic, finely chopped 4 cups baby spinach Kosher salt and freshly ground black pepper Melt the butter in a medium skillet over medium heat.",
+"When butter has melted add the garlic and cook until fragrant, about 30 seconds.",
+"Add spinach and cook until it has wilted and all the water has evaporated, about 2 minutes.",
+"Season to taste with salt and pepper.",
+"Onion and Pepper Filling: 1 teaspoon olive oil 1 onion, finely chopped 1 red pepper, finely chopped 1 green pepper, finely chopped Kosher salt and freshly ground black pepper Heat olive oil in a medium skillet over medium heat until shimmering.",
+"Add onion and cook until it just begins to soften, about 4 minutes.",
+"Add peppers and cook until peppers are just cooked through, about 5 minutes.",
+"Season to taste with salt and pepper.",
+"Creamed Leek Filling: 1 tablespoon butter 1 leek, finely sliced 1/3 cup cream Kosher salt and freshly ground black pepper Melt the butter in a skillet over medium high heat.",
+"Add the leek and cook until soft, about 8 minutes.",
+"Add cream and reduce heat to low.",
+"Cook until cream has just begun to thicken, about 10 minutes.",
+"Season to taste with salt and pepper.",
+"Lemony Charred Brussels Sprouts Filling: 1/4 cup olive oil 12 Brussels sprouts, leaves separated 1/4 teaspoon lemon zest Kosher salt and freshly ground black pepper Heat the olive oil in a skillet over high heat until it just begins to smoke.",
+"Add the brussel sprout leaves and cook, stirring constantly until the leaves are just beginning to char, about 1 minute.",
+"Remove from pan and toss with lemon zest.",
+"Season to taste with salt and pepper."
+],
+"summary": "This recipe appears in: Sunday Brunch: Eggs in Bacon Baskets [Photograph: Sydney Oland] About the author: Sydney Oland lives in Somerville, Mass. Find more information at sydneyoland.com (or read eatingnosetotail.com) Every recipe we publish is tested, tasted, and Serious Eats-approved by our staff. Never miss a recipe again by following @SeriousRecipes on Twitter!",
+"tags": [
+"egg",
+"bacon",
+"egg cups",
+"sunday brunch"
+]
+},
+{
+  "label": "Kaeshi From 'Japanese Soul Cooking'",
+"image": "https://edamam-product-images.s3.amazonaws.com/web-img/1c0/1c09d46683ae9b8b8b452412ccfcec81.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDqmaVc2VWMw52vL3GgYlzySH9qJKT5ILYkiBBYUSL0rgIgUy3D%2Be6aZAfPfBfX6fDeTBIjtcJaD%2BJaa5X12bbYyOIquQUIMRAAGgwxODcwMTcxNTA5ODYiDKPSElJkYzt9H3uIBSqWBZvz0LMJfBLoF1pcohlns5Nz5B6qCq0RyFaM5Ft8kuAnenJlKbwQD02%2B2OqfVKiVZAgFIhIq%2BqjBnC9bl4dV5Fk0Ap3dYvHCE8%2FaKxfmwXTaaW%2F6%2BS1OC1FcvtQBmezlEcKCqeQEN92gR23vdLBrUOiegeEjUcWO7nO%2BouOVPn%2FbyqpjBDpLP6d1m1OQsYfX5d3J4tsRFyqtMxjxaMVZH5RZHjiAiamkKpx8elqqDSYrKfPJ2WtEBfEJRh8yJU%2FrpQf0CmAGxgeWU%2FUX3GiG6Ey45Fw2wunCCgSmt%2FM3BaTgdqvPmUQCwXzUaxs7Jl4o55e0vAehwzZxRevEJnrac4zaVAoOZbyf183mhOm1tXt5hIt2FaT84V5CwjyzCFHYsdP5vnyEuoG%2BJ4xpmSGk2hl%2F7de%2Fx4lugQUBvfC2Raob4HOZF%2FIJDr8lzTJvSpDFtH4JQchZw0qtKT4uMPZG0G2paNc1d7Xyi90CuDExMtbXSszUnDiA7EDYn%2FKXLyG%2BhJQtQYls2fEzPo13PcLp4bZm1uFZ2M%2FsLQ6KWNLFvOJwXX39Oqq6ZQRwsK5SDizUX8td9CCDzAUw5vBHJZGGw1xcGjGZb5IKSrKKvRlqe393pvVp9iOn1mRaK9KzacyO%2BM9oyHmyl34fOynyfdD2lFi2%2BV4qvaOW%2FhEd0oDdlE0oWepoKHddEsLDPANmhb5Xy4J%2FhIgVg5u5xmk1CSDiwgl8UNp7Rki3fRni8pBnjJeODx%2FWYreElSL8y6tJRl3eh2zStE7%2B8qmEk3Rq5%2FcX2wYYw9u4AdZUgB31iZfiYTSydaj8xTzNY89jNuFXEjSeKo5dFXHl9h3hols%2FMzrd%2BqJS7EeROFb3pDtZ4mPlT5PcwGVq5mKkMKvUlqwGOrEBFxF7482m2kWHm28NiUkpzartNtTXZzhHsfOOtCrAGVelSTka%2FquOrvJRV%2BsPX1aCVvV1daELWJ8zigcIlmHbyvt22VoPPe7hO9bQRmbTi3Ztuln7O66Cau6oiYWtRQ1q0OSVGMJELfyUE1le%2BWaCRUwtyWP2LH4qveWbggM3K0USLjmmNwCFjvxlm114sjHR7b5qLfJ0oZ2Wj2UWeSQtGCTWrfk0JC0BKPxn4UfXcPy%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231222T162821Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFCZMK4FW4%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2460d991ac1588319d3c3c6b361eef9fa29d28ae00e71e9134a4499921279c25",
+"dietLabels": [
+"Low-Fat"
+],
+"healthLabels": [
+"Keto-Friendly",
+"Vegan",
+"Vegetarian",
+"Pescatarian",
+"Dairy-Free",
+"Egg-Free",
+"Peanut-Free",
+"Tree-Nut-Free",
+"Fish-Free",
+"Shellfish-Free",
+"Pork-Free",
+"Red-Meat-Free",
+"Crustacean-Free",
+"Celery-Free",
+"Mustard-Free",
+"Sesame-Free",
+"Lupine-Free",
+"Mollusk-Free",
+"No oil added",
+"Kosher"
+],
+"ingredientLines": [
+"2 cups soy sauce",
+"1/2 cup mirin",
+"3 tablespoons sugar"
+],
+"ingredients": [
+{
+"text": "2 cups soy sauce",
+"quantity": 2,
+"measure": "cup",
+"food": "soy sauce",
+"weight": 510,
+"foodCategory": "plant-based protein",
+"foodId": "food_a5g9yevb1iactoaiimbvjbkrxueh",
+"image": "https://www.edamam.com/food-img/f56/f562e461eb0618f367f538b836c17b82.jpg"
+},
+{
+"text": "1/2 cup mirin",
+"quantity": 0.5,
+"measure": "cup",
+"food": "mirin",
+"weight": 116.4,
+"foodCategory": "cocktails and liquors",
+"foodId": "food_bm83c4ob7z5q3xac1potzakndqbv",
+"image": "https://www.edamam.com/food-img/bb7/bb76cdd34c080bf65908c09812fd9c8d.jpg"
+},
+{
+"text": "3 tablespoons sugar",
+"quantity": 3,
+"measure": "tablespoon",
+"food": "sugar",
+"weight": 37.4999999993661,
+"foodCategory": "sugars",
+"foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+"image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+}
+],
+"cuisineType": [
+"japanese"
+],
+"dishType": [
+"starter"
+],
+"instructionLines": [
+"Add the ingredients to a saucepan and bring to a boil over high heat.",
+"Turn off the heat and allow the kaeshi to come to room temperature.",
+"Refrigerate for 3 days to give the flavors time to mingle and deepen.",
+"Kaeshi can keep in the refrigerator for up to 1 month."
+],
+"summary": "This recipe appears in: Kamo Nanban Soba From 'Japanese Soul Cooking' Kaeshi is used as a flavoring for soba broth. Use it in Tadashi Ono and Harris Salat's Kamo Nanban Soba from their new cookbook, Japanese Soul Cooking. Reprinted with permission from Japanese Soul Cooking: Ramen, Tonkatsu, Tempura, and More from the Streets of Tokyo and Beyond by Tadashi Ono and Harris Salat. Copyright 2013. Published by Ten Speed Press, a division of Random House. All rights reserved. Available wherever books are sold.",
+"tags": [
+"asian",
+"soy sauce",
+"mirin",
+"japanese",
+"cook the book",
+"japanese soul cooking"
+]
+},
+{
+  "label": "Rose Hip Cordial Recipe",
+"image": "https://edamam-product-images.s3.amazonaws.com/web-img/107/10777671175c1ebfec543d12016d2f96.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDqmaVc2VWMw52vL3GgYlzySH9qJKT5ILYkiBBYUSL0rgIgUy3D%2Be6aZAfPfBfX6fDeTBIjtcJaD%2BJaa5X12bbYyOIquQUIMRAAGgwxODcwMTcxNTA5ODYiDKPSElJkYzt9H3uIBSqWBZvz0LMJfBLoF1pcohlns5Nz5B6qCq0RyFaM5Ft8kuAnenJlKbwQD02%2B2OqfVKiVZAgFIhIq%2BqjBnC9bl4dV5Fk0Ap3dYvHCE8%2FaKxfmwXTaaW%2F6%2BS1OC1FcvtQBmezlEcKCqeQEN92gR23vdLBrUOiegeEjUcWO7nO%2BouOVPn%2FbyqpjBDpLP6d1m1OQsYfX5d3J4tsRFyqtMxjxaMVZH5RZHjiAiamkKpx8elqqDSYrKfPJ2WtEBfEJRh8yJU%2FrpQf0CmAGxgeWU%2FUX3GiG6Ey45Fw2wunCCgSmt%2FM3BaTgdqvPmUQCwXzUaxs7Jl4o55e0vAehwzZxRevEJnrac4zaVAoOZbyf183mhOm1tXt5hIt2FaT84V5CwjyzCFHYsdP5vnyEuoG%2BJ4xpmSGk2hl%2F7de%2Fx4lugQUBvfC2Raob4HOZF%2FIJDr8lzTJvSpDFtH4JQchZw0qtKT4uMPZG0G2paNc1d7Xyi90CuDExMtbXSszUnDiA7EDYn%2FKXLyG%2BhJQtQYls2fEzPo13PcLp4bZm1uFZ2M%2FsLQ6KWNLFvOJwXX39Oqq6ZQRwsK5SDizUX8td9CCDzAUw5vBHJZGGw1xcGjGZb5IKSrKKvRlqe393pvVp9iOn1mRaK9KzacyO%2BM9oyHmyl34fOynyfdD2lFi2%2BV4qvaOW%2FhEd0oDdlE0oWepoKHddEsLDPANmhb5Xy4J%2FhIgVg5u5xmk1CSDiwgl8UNp7Rki3fRni8pBnjJeODx%2FWYreElSL8y6tJRl3eh2zStE7%2B8qmEk3Rq5%2FcX2wYYw9u4AdZUgB31iZfiYTSydaj8xTzNY89jNuFXEjSeKo5dFXHl9h3hols%2FMzrd%2BqJS7EeROFb3pDtZ4mPlT5PcwGVq5mKkMKvUlqwGOrEBFxF7482m2kWHm28NiUkpzartNtTXZzhHsfOOtCrAGVelSTka%2FquOrvJRV%2BsPX1aCVvV1daELWJ8zigcIlmHbyvt22VoPPe7hO9bQRmbTi3Ztuln7O66Cau6oiYWtRQ1q0OSVGMJELfyUE1le%2BWaCRUwtyWP2LH4qveWbggM3K0USLjmmNwCFjvxlm114sjHR7b5qLfJ0oZ2Wj2UWeSQtGCTWrfk0JC0BKPxn4UfXcPy%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231222T162821Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=ASIASXCYXIIFCZMK4FW4%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=bc37b75a85fef46a0a27957d292d3d9ec842fb9356a5d7619771333227616cf6",
+"dietLabels": [
+"High-Fiber",
+"Low-Fat",
+"Low-Sodium"
+],
+"healthLabels": [
+"Vegan",
+"Vegetarian",
+"Pescatarian",
+"Dairy-Free",
+"Gluten-Free",
+"Wheat-Free",
+"Egg-Free",
+"Peanut-Free",
+"Tree-Nut-Free",
+"Soy-Free",
+"Fish-Free",
+"Shellfish-Free",
+"Pork-Free",
+"Red-Meat-Free",
+"Crustacean-Free",
+"Celery-Free",
+"Mustard-Free",
+"Sesame-Free",
+"Lupine-Free",
+"Mollusk-Free",
+"Alcohol-Free",
+"No oil added",
+"FODMAP-Free",
+"Kosher"
+],
+"ingredientLines": [
+"1 pound rose hips (a heaping quart, see note)",
+"5 cups water",
+"1 cup granulated sugar",
+"juice of 1 lemon"
+],
+"ingredients": [
+{
+"text": "1 pound rose hips (a heaping quart, see note)",
+"quantity": 1,
+"measure": "pound",
+"food": "rose hips",
+"weight": 453.59237,
+"foodCategory": "fruit",
+"foodId": "food_b4ckjyub2xb9tmaob2knnbjsh8zw",
+"image": "https://www.edamam.com/food-img/0b2/0b2f7a3d7689d39021af9aed91a40593.JPEG"
+},
+{
+"text": "5 cups water",
+"quantity": 5,
+"measure": "cup",
+"food": "water",
+"weight": 1182.9411825,
+"foodCategory": "water",
+"foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+"image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+},
+{
+"text": "1 cup granulated sugar",
+"quantity": 1,
+"measure": "cup",
+"food": "granulated sugar",
+"weight": 200,
+"foodCategory": "sugars",
+"foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+"image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+},
+{
+"text": "juice of 1 lemon",
+"quantity": 1,
+"measure": "<unit>",
+"food": "lemon",
+"weight": 84,
+"foodCategory": "fruit",
+"foodId": "food_a6uzc62astrxcgbtzyq59b6fncrr",
+"image": "https://www.edamam.com/food-img/70a/70acba3d4c734d7c70ef4efeed85dc8f.jpg"
+}
+],
+"cuisineType": [
+"french"
+],
+"dishType": [
+"starter"
+],
+"instructionLines": [
+"Wash rose hips well, and trim off any stems and large (flower) ends.",
+"Discard any that are split or seem otherwise compromised.",
+"Pulse in a food processor, in batches if necessary, until finely chopped.",
+"Place rose hips a large sauce pan, and add three cups of water.",
+"Bring water to a boil.",
+"Once water boils, allow to cook for a minute and then turn off heat, cover and allow the mixture to steep for 15-20 minutes.",
+"Then, remove lid and allow mixture to cool slightly, 3.",
+"Pour mixture into a jelly bag set over a large bowl and drain until pulp feels relatively dry.",
+"Return pulp to the saucepan and repeat the boil-seep-drain process with the remaining two cups of water.",
+"Discard pulp after it has completely drained for a second time.",
+"In a clean saucepan, combine the sugar and the rose hip syrup and bring to a boil.",
+"Simmer ten minutes until slightly reduced.",
+"Remove from heat, add lemon juice and allow to cool completely.",
+"Once cool, bottle cordial and store in the fridge.",
+"It will keep for several weeks, but it will have the best flavor for only about ten days."
+],
+"summary": "This recipe appears in: Preserved: Rose Hip Cordial [Photographs: Emily Teel] This is a slightly opaque red-orange syrup. Definitely fruity, a little floral, and with a hint of savory flavor—not unlike yellow tomatoes. Dilute it with seltzer for a sophisticated spritzer or use it as a sweet base for a winter cocktail. Note: Rose hips are available at many health food stores.",
+"tags": [
+"rose hip",
+"mocktail",
+"syrup",
+"cordial",
+"nonalcoholic"
+]
+},
+{
+  "label": "The Nasty Bits: Pig's Skin Recipe",
+"image": "https://edamam-product-images.s3.amazonaws.com/web-img/3f3/3f3b6b3aaa6357f5b49a0859e210748d.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDqmaVc2VWMw52vL3GgYlzySH9qJKT5ILYkiBBYUSL0rgIgUy3D%2Be6aZAfPfBfX6fDeTBIjtcJaD%2BJaa5X12bbYyOIquQUIMRAAGgwxODcwMTcxNTA5ODYiDKPSElJkYzt9H3uIBSqWBZvz0LMJfBLoF1pcohlns5Nz5B6qCq0RyFaM5Ft8kuAnenJlKbwQD02%2B2OqfVKiVZAgFIhIq%2BqjBnC9bl4dV5Fk0Ap3dYvHCE8%2FaKxfmwXTaaW%2F6%2BS1OC1FcvtQBmezlEcKCqeQEN92gR23vdLBrUOiegeEjUcWO7nO%2BouOVPn%2FbyqpjBDpLP6d1m1OQsYfX5d3J4tsRFyqtMxjxaMVZH5RZHjiAiamkKpx8elqqDSYrKfPJ2WtEBfEJRh8yJU%2FrpQf0CmAGxgeWU%2FUX3GiG6Ey45Fw2wunCCgSmt%2FM3BaTgdqvPmUQCwXzUaxs7Jl4o55e0vAehwzZxRevEJnrac4zaVAoOZbyf183mhOm1tXt5hIt2FaT84V5CwjyzCFHYsdP5vnyEuoG%2BJ4xpmSGk2hl%2F7de%2Fx4lugQUBvfC2Raob4HOZF%2FIJDr8lzTJvSpDFtH4JQchZw0qtKT4uMPZG0G2paNc1d7Xyi90CuDExMtbXSszUnDiA7EDYn%2FKXLyG%2BhJQtQYls2fEzPo13PcLp4bZm1uFZ2M%2FsLQ6KWNLFvOJwXX39Oqq6ZQRwsK5SDizUX8td9CCDzAUw5vBHJZGGw1xcGjGZb5IKSrKKvRlqe393pvVp9iOn1mRaK9KzacyO%2BM9oyHmyl34fOynyfdD2lFi2%2BV4qvaOW%2FhEd0oDdlE0oWepoKHddEsLDPANmhb5Xy4J%2FhIgVg5u5xmk1CSDiwgl8UNp7Rki3fRni8pBnjJeODx%2FWYreElSL8y6tJRl3eh2zStE7%2B8qmEk3Rq5%2FcX2wYYw9u4AdZUgB31iZfiYTSydaj8xTzNY89jNuFXEjSeKo5dFXHl9h3hols%2FMzrd%2BqJS7EeROFb3pDtZ4mPlT5PcwGVq5mKkMKvUlqwGOrEBFxF7482m2kWHm28NiUkpzartNtTXZzhHsfOOtCrAGVelSTka%2FquOrvJRV%2BsPX1aCVvV1daELWJ8zigcIlmHbyvt22VoPPe7hO9bQRmbTi3Ztuln7O66Cau6oiYWtRQ1q0OSVGMJELfyUE1le%2BWaCRUwtyWP2LH4qveWbggM3K0USLjmmNwCFjvxlm114sjHR7b5qLfJ0oZ2Wj2UWeSQtGCTWrfk0JC0BKPxn4UfXcPy%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231222T162821Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFCZMK4FW4%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a8a80e6cd9ded3002742a7b76bd40057793c1f95e2404940ef9de12dffaf0a3c",
+"dietLabels": [
+"Low-Carb",
+"Low-Sodium"
+],
+"healthLabels": [
+"Sugar-Conscious",
+"Low Sugar",
+"Low Potassium",
+"Kidney-Friendly",
+"Keto-Friendly",
+"Paleo",
+"Dairy-Free",
+"Gluten-Free",
+"Wheat-Free",
+"Egg-Free",
+"Peanut-Free",
+"Tree-Nut-Free",
+"Soy-Free",
+"Fish-Free",
+"Shellfish-Free",
+"Crustacean-Free",
+"Celery-Free",
+"Mustard-Free",
+"Sesame-Free",
+"Lupine-Free",
+"Mollusk-Free",
+"Alcohol-Free",
+"Sulfite-Free",
+"FODMAP-Free"
+],
+"ingredientLines": [
+"1 sheet of pork's skin, with a ¼ inch layer of fat still attached",
+"3 cups rendered duck fat or lard, or enough to cover the layers of skin",
+"A few cups of kosher salt"
+],
+"ingredients": [
+{
+"text": "1 sheet of pork's skin, with a ¼ inch layer of fat still attached",
+"quantity": 1,
+"measure": "<unit>",
+"food": "pork",
+"weight": 117,
+"foodCategory": "meats",
+"foodId": "food_aisetlvawqaqp8a2uc28uaf46l5m",
+"image": "https://www.edamam.com/food-img/d55/d553f23d42b9c8fb314416ccd5cde3d2.jpg"
+},
+{
+"text": "3 cups rendered duck fat or lard, or enough to cover the layers of skin",
+"quantity": 3,
+"measure": "cup",
+"food": "rendered duck fat",
+"weight": 615,
+"foodCategory": "Oils",
+"foodId": "food_bry45ozakr1fgeaqqgt9sbw9onte",
+"image": "https://www.edamam.com/food-img/52f/52f6373a98495c61928e56ec372fe225.jpg"
+},
+{
+"text": "A few cups of kosher salt",
+"quantity": 1,
+"measure": "cup",
+"food": "kosher salt",
+"weight": 233,
+"foodCategory": "Condiments and sauces",
+"foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+"image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+}
+],
+"cuisineType": [
+"british"
+],
+"dishType": [
+"starter"
+],
+"instructionLines": [
+"Rinse and dry your piece of skin.",
+"Using a non-reactive pan, spread a thin layer of salt on the bottom.",
+"Place the skin on top, and fold accordian-style if needed, so that all of the skin will fit in the pan.",
+"Each time you fold the skin over, sprinkle another thin layer of salt in between so that the entire surface area will be touching salt by the time you're finished.",
+"Cover tightly with plastic wrap, and let sit in the refrigerator for 5 to 6 days.",
+"After the salting period, soak the skin in a large bowl of water for at least 6 hours to one day.",
+"By the time the skin is done soaking, it will have grown slightly more engorged.",
+"Preheat the oven to 300°F.",
+"Place the skin into a cast iron skillet or heavy pot.",
+"Cover the skin with the rendered fat.",
+"If you're using a skillet or pan without a lid, cover the top with a sheet of foil.",
+"Place the covered vessel into the oven and cook for two hours, until the skin is very soft and shrunken.",
+"Be sure that the skin is gently simmering rather than deep-frying in the fat.",
+"If needed, turn the oven down to 250°F.",
+"Kept in the refrigerator, the skin can be stored in the fat indefinitely.",
+"When you are ready to eat the skin, place a sheet of it on a pan and crisp it in a 350°F oven for a few minutes, until the skin is puffed and golden brown.",
+"Cut into pieces and serve."
+],
+"summary": "When we think of eating organs, we imagine the red, glossy innards of various beasts and fowl. The skin, however, the largest organ of them all, is a boon for the cook and meat lover. When stewed, skin adds body and gelatin to the stock; when baked or fried, its crisp qualities are incomparable. I'd never worked before with such a large section of pig skin; usually my forays into skin involve some kind of poultry. The swath of pig skin I purchased was at least three feet in length and a foot across. With just a thin layer of fat attached, the skin was supple and white with a pale-pink suggestion of meat on its underside. I was struck with the strangest inclination to wrap it around myself like a shawl. Instead, I salted the skin and left it to cure in the refrigerator for five days, following directions for \"Pork Scratchings\" in Fergus Henderson's Beyond Nose to Tail. With his typical flair, Henderson pronounces the crisped pieces of skin to be \"a most steadying nibble.\" Salted, soaked, and stewed in fat, the skin puffed up in the oven to a golden-brown hue. Crisper and chewier than typical pork cracklings or chicharrones, the skin was an addictive snack as well as a meaty topping for potatoes and soup--a steadying nibble, indeed. A pithy sequel to The Whole Beast, Beyond Nose to Tail is filled with the kind of fanciful recipes that make Henderson's style so distinct. Sometimes a recipe is just a recipe; for the most memorable cooks and chefs, the recipe is a glimpse into the psyche of its author. Impenetrable at times yet assuring when you most need it, Henderson's diction often veers toward the poetic. For anyone who has observed the workings of the kitchen with a literary eye, there's a good deal of method to Henderson's madness. Meats stewed until they are fork-tender or falling off the bone are often deemed \"thoroughly giving,\" amounts are specified in terms of \"good doses,\" and measurements for butter are given in \"knobs.\" Oftentimes, cookbook authors write about their subjects with anthropomorphic intimacy: Julia Child described zucchini, eggplants, and tomatoes simmering together for ratatouille as a \"brief commingling\" in the pot; Henderson's direction for soup is to \"cook down until they have really got to know each other.\" Henderson's recipe for pork scratchings follows a method roughly akin to confiting: an initial salting, followed by a lengthy cooking in fat, ending with a crisping in the oven. The original recipe calls for the use of duck fat as the stewing medium; lacking poultry fat, I used home-rendered lard instead. If you find yourself with insufficient funds for duck fat or simply enjoy lard more, you can render your own by roughly chopping up chunks of back fat and slowly heating them up in a heavy pot. Over the course of an hour or so, you'll end up with many cups of light golden fat. Like confit, once the skin has been cooked in the fat, it may also be stored in the fat indefinitely if kept in the refrigerator. Pull out a few sections of the skin for a rainy day. Unlike confit, there are no tender slivers of meat--just the skin, puffed up until the texture is chewy and hard, with a crisp yet sticky consistency. The gluey toughness of the skin results from its inherently gelatinous qualities. Even after the skin has been simmered and crisped in the oven, it retains some of its original gumminess, yielding a more interesting texture, not to mention a more vigorous exercise for your molars. Like potato chips or any other addictively salty snack, little cut-up pieces of the skin went quickly in the kitchen, accompanied by cool beers and good conversation. Pork Scratchings Adapted from Beyond Nose to Tail by Fergus Henderson and Justin Piers Gellatly.",
+"tags": [
+"Pork",
+"Meal",
+"Recipes",
+"Ingredient",
+"Meats and Poultry",
+"Appetizers and Hors d'Oeuvres",
+"Offal"
+]
+},
+{
+  "label": "The Best Seared Scallops Recipe",
+"image": "https://edamam-product-images.s3.amazonaws.com/web-img/f2c/f2c6b742b9d432e6b6c202d1049a8c10.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDqmaVc2VWMw52vL3GgYlzySH9qJKT5ILYkiBBYUSL0rgIgUy3D%2Be6aZAfPfBfX6fDeTBIjtcJaD%2BJaa5X12bbYyOIquQUIMRAAGgwxODcwMTcxNTA5ODYiDKPSElJkYzt9H3uIBSqWBZvz0LMJfBLoF1pcohlns5Nz5B6qCq0RyFaM5Ft8kuAnenJlKbwQD02%2B2OqfVKiVZAgFIhIq%2BqjBnC9bl4dV5Fk0Ap3dYvHCE8%2FaKxfmwXTaaW%2F6%2BS1OC1FcvtQBmezlEcKCqeQEN92gR23vdLBrUOiegeEjUcWO7nO%2BouOVPn%2FbyqpjBDpLP6d1m1OQsYfX5d3J4tsRFyqtMxjxaMVZH5RZHjiAiamkKpx8elqqDSYrKfPJ2WtEBfEJRh8yJU%2FrpQf0CmAGxgeWU%2FUX3GiG6Ey45Fw2wunCCgSmt%2FM3BaTgdqvPmUQCwXzUaxs7Jl4o55e0vAehwzZxRevEJnrac4zaVAoOZbyf183mhOm1tXt5hIt2FaT84V5CwjyzCFHYsdP5vnyEuoG%2BJ4xpmSGk2hl%2F7de%2Fx4lugQUBvfC2Raob4HOZF%2FIJDr8lzTJvSpDFtH4JQchZw0qtKT4uMPZG0G2paNc1d7Xyi90CuDExMtbXSszUnDiA7EDYn%2FKXLyG%2BhJQtQYls2fEzPo13PcLp4bZm1uFZ2M%2FsLQ6KWNLFvOJwXX39Oqq6ZQRwsK5SDizUX8td9CCDzAUw5vBHJZGGw1xcGjGZb5IKSrKKvRlqe393pvVp9iOn1mRaK9KzacyO%2BM9oyHmyl34fOynyfdD2lFi2%2BV4qvaOW%2FhEd0oDdlE0oWepoKHddEsLDPANmhb5Xy4J%2FhIgVg5u5xmk1CSDiwgl8UNp7Rki3fRni8pBnjJeODx%2FWYreElSL8y6tJRl3eh2zStE7%2B8qmEk3Rq5%2FcX2wYYw9u4AdZUgB31iZfiYTSydaj8xTzNY89jNuFXEjSeKo5dFXHl9h3hols%2FMzrd%2BqJS7EeROFb3pDtZ4mPlT5PcwGVq5mKkMKvUlqwGOrEBFxF7482m2kWHm28NiUkpzartNtTXZzhHsfOOtCrAGVelSTka%2FquOrvJRV%2BsPX1aCVvV1daELWJ8zigcIlmHbyvt22VoPPe7hO9bQRmbTi3Ztuln7O66Cau6oiYWtRQ1q0OSVGMJELfyUE1le%2BWaCRUwtyWP2LH4qveWbggM3K0USLjmmNwCFjvxlm114sjHR7b5qLfJ0oZ2Wj2UWeSQtGCTWrfk0JC0BKPxn4UfXcPy%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231222T162821Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFCZMK4FW4%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d7245fd792903e3cb88a19d431b743a6ac78eb69d7cf6715a247082a121540dc",
+"dietLabels": [
+"High-Protein",
+"Low-Carb"
+],
+"healthLabels": [
+"Sugar-Conscious",
+"Low Sugar",
+"Keto-Friendly",
+"Pescatarian",
+"Dairy-Free",
+"Gluten-Free",
+"Wheat-Free",
+"Egg-Free",
+"Peanut-Free",
+"Tree-Nut-Free",
+"Soy-Free",
+"Fish-Free",
+"Pork-Free",
+"Red-Meat-Free",
+"Crustacean-Free",
+"Celery-Free",
+"Mustard-Free",
+"Sesame-Free",
+"Lupine-Free",
+"Alcohol-Free",
+"Sulfite-Free"
+],
+"ingredientLines": [
+"1 1/4 pounds fresh dry sea scallops (see note above)",
+"Kosher salt",
+"1 tablespoon vegetable, canola, or grapeseed oil"
+],
+"ingredients": [
+{
+"text": "1 1/4 pounds fresh dry sea scallops (see note above)",
+"quantity": 1.25,
+"measure": "pound",
+"food": "sea scallops",
+"weight": 566.9904625,
+"foodCategory": "seafood",
+"foodId": "food_bj8tq86a632xqgafxslvea0n4i64",
+"image": "https://www.edamam.com/food-img/463/4638ecee878f16a7101c08bd214b1356.png"
+},
+{
+"text": "Kosher salt",
+"quantity": 0,
+"measure": null,
+"food": "Kosher salt",
+"weight": 3.4835427750000005,
+"foodCategory": "Condiments and sauces",
+"foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+"image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+},
+{
+"text": "1 tablespoon vegetable, canola, or grapeseed oil",
+"quantity": 1,
+"measure": "tablespoon",
+"food": "grapeseed oil",
+"weight": 13.6,
+"foodCategory": "Oils",
+"foodId": "food_br8vwihb5tm7wybd4ppzjaox5089",
+"image": "https://www.edamam.com/food-img/88b/88bb3399c7bf214d2bce6bd86780eaf2.jpg"
+}
+],
+"cuisineType": [
+"mediterranean"
+],
+"dishType": [
+"starter"
+],
+"instructionLines": [
+"Place scallops on a layer of paper towels and season with salt on all sides.",
+"Top with more towels and thoroughly pat dry.",
+"Let rest in the refrigerator for 15 minutes.",
+"Remove and pat dry again.",
+"Season lightly with more salt.",
+"Heat vegetable oil in a large stainless steel or cast iron skillet over high heat until lightly smoking.",
+"Add scallops, leaving space between each one to prevent excess steaming.",
+"Cook scallops without moving them until well browned on first side, about 1 minute.",
+"Carefully flip scallops and cook until second side is browned, about 1 minute longer.",
+"Transfer scallops to a paper towel–lined plate to drain.",
+"Serve immediately."
+],
+"summary": "Seared scallops like these are delicious with corn and tomatoes—or another accompaniment of your choosing. [Photograph: J. Kenji López-Alt] Deeply browned scallops with a sweet, caramel-colored crust and a tender, springy center that's never rubbery. That's what we're all after—here's how to achieve it.",
+"tags": [
+"quick",
+"corn",
+"easy",
+"seafood",
+"scallop"
+]
 }
 
   ]
