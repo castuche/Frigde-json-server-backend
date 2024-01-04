@@ -34,12 +34,12 @@
     "Kosher"
     ],
     "ingredientLines": [
-    "1 ounce egg white (2 tablespoons; 28g) from 1 large egg",
+    "1 ounce egg white (2 tablespoons; 28g) from 1 egg",
     "12 ounces powdered sugar (3 cups; 340g), divided"
     ],
     "ingredients": [
     {
-    "text": "1 ounce egg white (2 tablespoons; 28g) from 1 large egg",
+    "text": "1 ounce egg white (2 tablespoons; 28g) from 1 egg",
     "quantity": 1,
     "measure": "ounce",
     "food": "egg white",
